@@ -1,15 +1,21 @@
 ## My Profile
 
-<br>Saravanan Kumar Subramanyam
-<br>Senior Data Analyst
-<br>Experian (Malaysia) Sdn Bhd
+<br>Name: Saravanan Kumar Subramanyam
+<br>Current Position: Senior Data Analyst
+<br>Company: Experian (Malaysia) Sdn Bhd
 
 <br>H/P No: 0123145419
 <br>Email: vanank83@gmail.com
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Gender          : Male
+Age             : 33
+Date of Birth   : 22nd October 1983
+Nationality     : Malaysian
+Marital Status  : Single
+I.C or Passport : 831022-01-6597
+
 
 ```markdown
 Syntax highlighted code block
