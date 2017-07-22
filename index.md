@@ -6,9 +6,6 @@
 
 <br>H/P No: 0123145419
 <br>Email: vanank83@gmail.com
-
-### Markdown
-
 <br>Gender          : Male
 <br>Age             : 33
 <br>Date of Birth   : 22nd October 1983
