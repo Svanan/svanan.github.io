@@ -1,8 +1,8 @@
 ## My Profile
 
-Saravanan Kumar Subramanyam
-Senior Data Analyst
-Experian (Malaysia) Sdn Bhd
+#Saravanan Kumar Subramanyam
+#Senior Data Analyst
+#Experian (Malaysia) Sdn Bhd
 
 H/P No: 0123145419
 Email: vanank83@gmail.com
