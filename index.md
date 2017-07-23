@@ -7,11 +7,9 @@
 <br>H/P No: 0123145419
 <br>Email: vanank83@gmail.com
 <br>Gender          : Male
-<br>Age             : 33
-<br>Date of Birth   : 22nd October 1983
-<br>Nationality     : Malaysian
+<br>Age             : 33
+<br>Nationality     : Malaysian
 <br>Marital Status  : Single
-<br>I.C or Passport : 831022-01-6597
 
 
 ```markdown
