@@ -45,50 +45,13 @@ Work Profile
 -	      Healthcare and Financial industries.
 
 
-
-APIIT SDN. BHD. Technology Park Malaysia, Bukit Jalil Kuala Lumpur.
-2008 – 2011
-Position	: Multimedia Developer.
-Industry/Background	: Education/Development/Maintenance/Support.
-	
-	
-	
-
-Work Profile
-
-•	Maintain and update student website including website applications, uploading announcements, manage links and posting banners. (http://webspace.apiit.edu.my).
-•	Responsible for the maintenance and update of APIIT Job Placement System. 
-•	Responsible for the maintenance and update of CTI (Centre of Technology & Innovation) Website.
-•	Responsible for the update of APIIT Corporate Training website.
-•	Send email to students using Email Broadcast System.
-•	Send SMS to students using SMS Gateway System.
-•	Provide technical assistance to student/staff/user for any IT/website related issues. 
-•	Provide authorization to student/staff/user to access website applications.
-
-
- 
-
-Successful Projects Undertaken	
-
-•	Developed APIIT Smart School website.
-•	Developed UCTI PAGOL (Asia Pacific University College of Technology & Innovation Project Assessment and Guidance On Line) website for final year students.
-•	Developed interactive CD-based multimedia presentation of Sapura Annual Report for Sapura Resources Berhad for the year 2008 and 2009 using Adobe Flash CS3.
-•	Designed exhibition graphics/posters for 17th Conference of Commonwealth Education Ministers 2009. 
-•	Designed Graphical User Interface (GUI) design for applications. 
-•	Involved in team project for the development of e-Learning tutorials for latest mobile phone models from Sony Ericsson using Adobe Flash CS3.
-•	Involved in various projects for Sweden-based company (Sigma Kudos).
-•	Developed flash-based presentation for HP Networking Project.
-•	Developed presentation movie for Sigma Kudos (Swedish client).
-•	Developed flash-based online user manual for Sony Ericsson mobile phones. 
-•	Developed APIIT Smart School Information Kiosk for Final Year Project.
-
-
-
 ## Languages and Skills
-<br>Languages	Spoken	Written
-<br>English     10	10
-<br>B.Malaysia	10	10
-<br>Tamil	10      1
+<br>Languages:
+<br>English
+<br>Spoken:10 Written: 10
+
+<br>B.Malaysia
+<br>Tamil
 
  
 Skills 
