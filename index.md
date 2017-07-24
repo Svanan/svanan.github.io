@@ -40,7 +40,7 @@ Work Profile
 -	Join the AU & UK meetings/calls with stakeholders.
 -	Implement ‘best practice’ in communications by ensuring requests are acknowledged within agreed timeframe, prioritised accordingly and resolved to our customers’ satisfaction.
 -	Involved in recruitment process of new employee (Web/Data Analyst). Including reviewing of applicant’s resume, liasing with HR to make appointments & review tests done by candidates. Conduct interviews with shortlisted candidates.
--	-     Involved in projects for Google, Yahoo, Mercedes, BMW, Toyota, Honda, Walmart     
+-     Involved in projects for Google, Yahoo, Mercedes, BMW, Toyota, Honda, Walmart                      
 -	      UK, Wellsfargo and various clients worldwide from Automotive, Banking, Retail,   
 -	      Healthcare and Financial industries.
 
@@ -51,24 +51,21 @@ Work Profile
 
 
 
-APIIT SDN. BHD. Technology Park Malaysia, Bukit Jalil Kuala Lumpur.
-2008 – 2011
-Position	: Multimedia Developer.
-Industry/Background	: Education/Development/Maintenance/Support.
+
+
+
 	
 	
 	
 
-Work Profile
 
-•	Maintain and update student website including website applications, uploading announcements, manage links and posting banners. (http://webspace.apiit.edu.my).
-•	Responsible for the maintenance and update of APIIT Job Placement System. 
-•	Responsible for the maintenance and update of CTI (Centre of Technology & Innovation) Website.
-•	Responsible for the update of APIIT Corporate Training website.
-•	Send email to students using Email Broadcast System.
-•	Send SMS to students using SMS Gateway System.
-•	Provide technical assistance to student/staff/user for any IT/website related issues. 
-•	Provide authorization to student/staff/user to access website applications.
+
+
+
+
+
+
+
 
 
 
