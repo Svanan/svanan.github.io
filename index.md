@@ -46,34 +46,6 @@ Work Profile
 
 
 
-Hitwise Experian (Malaysia) Sdn Bhd | Kuala Lumpur, Malaysia
-2011 - Present
-Position	: Senior Data Analyst
-Industry/Background	: Computer / Information Technology (Software)
-
-Work Profile
--	Independently manage the Data team’s function out of Malaysia and lead the team in KL as a senior. 
--	Work together with colleagues from Australia, UK and Costa Rica to deliver projects successfully.
--	Train junior analyst and review analyst’s work for Quality Assurance, including analysts from other regions. 
--	Track the traffic within specific sections of a website using a Regular Expression tool for clients.
--	Analyze websites and update website feasibility for requests using Salesforce tool.
--	Contribute ideas in the area of process improvements and the establishment of ‘best practices’ including, Service-Level-Agreements and Key Performance Indicators. 
--	Generate and send out weekly/monthly reports.
--	Monitor data tracking alerts for inconsistencies.
--	Join the AU & UK meetings/calls with stakeholders.
--	Implement ‘best practice’ in communications by ensuring requests are acknowledged within agreed timeframe, prioritised accordingly and resolved to our customers’ satisfaction.
--	Involved in recruitment process of new employee (Web/Data Analyst). Including reviewing of applicant’s resume, liasing with HR to make appointments & review tests done by candidates. Conduct interviews with shortlisted candidates.
--	-     Involved in projects for Google, Yahoo, Mercedes, BMW, Toyota, Honda, Walmart     
--	      UK, Wellsfargo and various clients worldwide from Automotive, Banking, Retail,   
--	      Healthcare and Financial industries.
-
-
-
-
-
-
-
-
 APIIT SDN. BHD. Technology Park Malaysia, Bukit Jalil Kuala Lumpur.
 2008 – 2011
 Position	: Multimedia Developer.
@@ -112,6 +84,35 @@ Successful Projects Undertaken
 
 
 
+## Languages and Skills
+Languages	Spoken	Written
+English      	10	10
+Bahasa Malaysia	10	10
+Tamil		10      1
+
+ 
+Skills 
+<br>Regular Expression, Web / Data / Internet Analytics, Python, Adobe tools, Microsoft Office tools, Linux, HTML
+
+Additional Info
+<br>Possess Own Transport : Yes
+<br>Expected salary: Negotiable
+   
+
+## References 
+	
+Mr. James Burke	+61418528427
+<br>Manager	
+<br>Hitwise Experian, Melbourne	
+	
+Mr. Alex Chi 0172396988
+<br>Head of Operations	
+<br>Hitwise Experian, KL	
+	
+Mr. Senthil Kumar 0194754238
+<br>Senior Developer	
+<br>Hitwise Experian, KL	
+	
 
 
 
