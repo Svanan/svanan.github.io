@@ -40,7 +40,7 @@ Work Profile
 -	Join the AU & UK meetings/calls with stakeholders.
 -	Implement ‘best practice’ in communications by ensuring requests are acknowledged within agreed timeframe, prioritised accordingly and resolved to our customers’ satisfaction.
 -	Involved in recruitment process of new employee (Web/Data Analyst). Including reviewing of applicant’s resume, liasing with HR to make appointments & review tests done by candidates. Conduct interviews with shortlisted candidates.
--     Involved in projects for Google, Yahoo, Mercedes, BMW, Toyota, Honda, Walmart                      
+- Involved in projects for Google, Yahoo, Mercedes, BMW, Toyota, Honda, Walmart                    
 -	      UK, Wellsfargo and various clients worldwide from Automotive, Banking, Retail,   
 -	      Healthcare and Financial industries.
 
