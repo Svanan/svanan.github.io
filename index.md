@@ -85,10 +85,10 @@ Successful Projects Undertaken
 
 
 ## Languages and Skills
-Languages	Spoken	Written
-English      	10	10
-Bahasa Malaysia	10	10
-Tamil		10      1
+<br>Languages	Spoken	Written
+<br>English     10	10
+<br>B.Malaysia	10	10
+<br>Tamil	10      1
 
  
 Skills 
