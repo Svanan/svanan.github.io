@@ -48,16 +48,18 @@ Work Profile
 ## Languages and Skills
 <br>Languages:
 <br>English
-<br>Spoken:10 Written: 10
+<br>Spoken: 10  Written: 10
 
 <br>B.Malaysia
-<br>Tamil
+<br>Spoken: 10  Written: 10
 
+<br>Tamil
+<br>Spoken: 10  Written: 10
  
-Skills 
+Skills: 
 <br>Regular Expression, Web / Data / Internet Analytics, Python, Adobe tools, Microsoft Office tools, Linux, HTML
 
-Additional Info
+Additional Info:
 <br>Possess Own Transport : Yes
 <br>Expected salary: Negotiable
    
@@ -68,11 +70,11 @@ Mr. James Burke	+61418528427
 <br>Manager	
 <br>Hitwise Experian, Melbourne	
 	
-Mr. Alex Chi 0172396988
+Mr. Alex Chi +60172396988
 <br>Head of Operations	
 <br>Hitwise Experian, KL	
 	
-Mr. Senthil Kumar 0194754238
+Mr. Senthil Kumar +60194754238
 <br>Senior Developer	
 <br>Hitwise Experian, KL	
 	
