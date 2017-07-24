@@ -46,6 +46,86 @@ Work Profile
 
 
 
+Hitwise Experian (Malaysia) Sdn Bhd | Kuala Lumpur, Malaysia
+2011 - Present
+Position	: Senior Data Analyst
+Industry/Background	: Computer / Information Technology (Software)
+
+Work Profile
+-	Independently manage the Data team’s function out of Malaysia and lead the team in KL as a senior. 
+-	Work together with colleagues from Australia, UK and Costa Rica to deliver projects successfully.
+-	Train junior analyst and review analyst’s work for Quality Assurance, including analysts from other regions. 
+-	Track the traffic within specific sections of a website using a Regular Expression tool for clients.
+-	Analyze websites and update website feasibility for requests using Salesforce tool.
+-	Contribute ideas in the area of process improvements and the establishment of ‘best practices’ including, Service-Level-Agreements and Key Performance Indicators. 
+-	Generate and send out weekly/monthly reports.
+-	Monitor data tracking alerts for inconsistencies.
+-	Join the AU & UK meetings/calls with stakeholders.
+-	Implement ‘best practice’ in communications by ensuring requests are acknowledged within agreed timeframe, prioritised accordingly and resolved to our customers’ satisfaction.
+-	Involved in recruitment process of new employee (Web/Data Analyst). Including reviewing of applicant’s resume, liasing with HR to make appointments & review tests done by candidates. Conduct interviews with shortlisted candidates.
+-	-     Involved in projects for Google, Yahoo, Mercedes, BMW, Toyota, Honda, Walmart     
+-	      UK, Wellsfargo and various clients worldwide from Automotive, Banking, Retail,   
+-	      Healthcare and Financial industries.
+
+
+
+
+
+
+
+
+APIIT SDN. BHD. Technology Park Malaysia, Bukit Jalil Kuala Lumpur.
+2008 – 2011
+Position	: Multimedia Developer.
+Industry/Background	: Education/Development/Maintenance/Support.
+	
+	
+	
+
+Work Profile
+
+•	Maintain and update student website including website applications, uploading announcements, manage links and posting banners. (http://webspace.apiit.edu.my).
+•	Responsible for the maintenance and update of APIIT Job Placement System. 
+•	Responsible for the maintenance and update of CTI (Centre of Technology & Innovation) Website.
+•	Responsible for the update of APIIT Corporate Training website.
+•	Send email to students using Email Broadcast System.
+•	Send SMS to students using SMS Gateway System.
+•	Provide technical assistance to student/staff/user for any IT/website related issues. 
+•	Provide authorization to student/staff/user to access website applications.
+
+
+ 
+
+Successful Projects Undertaken	
+
+•	Developed APIIT Smart School website.
+•	Developed UCTI PAGOL (Asia Pacific University College of Technology & Innovation Project Assessment and Guidance On Line) website for final year students.
+•	Developed interactive CD-based multimedia presentation of Sapura Annual Report for Sapura Resources Berhad for the year 2008 and 2009 using Adobe Flash CS3.
+•	Designed exhibition graphics/posters for 17th Conference of Commonwealth Education Ministers 2009. 
+•	Designed Graphical User Interface (GUI) design for applications. 
+•	Involved in team project for the development of e-Learning tutorials for latest mobile phone models from Sony Ericsson using Adobe Flash CS3.
+•	Involved in various projects for Sweden-based company (Sigma Kudos).
+•	Developed flash-based presentation for HP Networking Project.
+•	Developed presentation movie for Sigma Kudos (Swedish client).
+•	Developed flash-based online user manual for Sony Ericsson mobile phones. 
+•	Developed APIIT Smart School Information Kiosk for Final Year Project.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
