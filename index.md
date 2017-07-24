@@ -1,14 +1,14 @@
 ## My Profile
 
-<br>Name            : Saravanan Kumar Subramanyam
+<br>Name: Saravanan Kumar Subramanyam
 <br>Current Position: Senior Data Analyst
-<br>Company         : Experian (Malaysia) Sdn Bhd
+<br>Company: Experian (Malaysia) Sdn Bhd
 
-<br>H/P No        : 0123145419
-<br>Email         : vanank83@gmail.com
-<br>Gender        : Male
-<br>Age           : 33
-<br>Nationality   : Malaysian
+<br>H/P No: 0123145419
+<br>Email: vanank83@gmail.com
+<br>Gender: Male
+<br>Age: 33
+<br>Nationality: Malaysian
 <br>Marital Status: Single
 
 ## Education
