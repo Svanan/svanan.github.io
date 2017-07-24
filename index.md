@@ -11,6 +11,18 @@
 <br>Nationality   : Malaysian
 <br>Marital Status: Single
 
+## Education
+Staffordshire University (Graduation Date: August 2008)
+Qualification	: BSc in Computing (Staffordshire University)
+Major	: Multimedia
+	
+Cosmopoint College (Graduation Date: October 2003)
+Qualification	: Diploma in Multimedia Applications
+Major	: Multimedia
+	
+	
+
+
 
 ```markdown
 Syntax highlighted code block
