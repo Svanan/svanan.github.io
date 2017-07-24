@@ -1,3 +1,5 @@
+## Saravanan - Senior Data Analyst
+
 ## My Profile
 
 <br>Name: Saravanan Kumar Subramanyam
@@ -16,12 +18,6 @@ Staffordshire University (Graduation Date: August 2008)
 <br>Qualification	: BSc in Computing (Staffordshire University)
 <br>Major	: Multimedia
 	
-<br>Cosmopoint College (Graduation Date: October 2003)
-<br>Qualification	: Diploma in Multimedia Applications
-<br>Major	: Multimedia
-
-<br>St.Andrew School, Muar Johor (Completed SPM: December 2000)
-
 ## Work Experience
 
 Hitwise Experian (Malaysia) Sdn Bhd | Kuala Lumpur, Malaysia 2011 - Present
