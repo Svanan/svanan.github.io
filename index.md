@@ -25,7 +25,5 @@ Staffordshire University (Graduation Date: August 2008)
 
 
 
-[Link](url) and ![Image](src)
-```
 
 
