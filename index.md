@@ -43,7 +43,7 @@ Work Profile
 
 
 ## Languages and Skills
-<br>Languages:
+Languages:
 <br>English
 <br>Spoken: 10  Written: 10
 
