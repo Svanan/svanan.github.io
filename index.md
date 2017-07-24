@@ -13,12 +13,12 @@
 
 ## Education
 Staffordshire University (Graduation Date: August 2008)
-Qualification	: BSc in Computing (Staffordshire University)
-Major	: Multimedia
+<br>Qualification	: BSc in Computing (Staffordshire University)
+<br>Major	: Multimedia
 	
-Cosmopoint College (Graduation Date: October 2003)
-Qualification	: Diploma in Multimedia Applications
-Major	: Multimedia
+<br>Cosmopoint College (Graduation Date: October 2003)
+<br>Qualification	: Diploma in Multimedia Applications
+<br>Major	: Multimedia
 	
 	
 
