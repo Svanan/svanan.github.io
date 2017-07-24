@@ -19,7 +19,8 @@ Staffordshire University (Graduation Date: August 2008)
 <br>Cosmopoint College (Graduation Date: October 2003)
 <br>Qualification	: Diploma in Multimedia Applications
 <br>Major	: Multimedia
-	
+
+<br>St.Andrew School, Muar Johor (Completed SPM: December 2000)
 	
 
 
