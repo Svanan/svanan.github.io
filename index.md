@@ -6,7 +6,7 @@
 <br>Current Position: Senior Data Analyst
 <br>Company: Experian (Malaysia) Sdn Bhd
 
-<br>H/P No: 0123145419
+<br>H/P No: +60123145419
 <br>Email: vanank83@gmail.com
 <br>Gender: Male
 <br>Age: 33
@@ -15,7 +15,7 @@
 
 ## Education
 Staffordshire University (Graduation Date: August 2008)
-<br>Qualification	: BSc in Computing (Staffordshire University)
+<br>Qualification	: BSc in Computing
 <br>Major	: Multimedia
 	
 ## Work Experience
